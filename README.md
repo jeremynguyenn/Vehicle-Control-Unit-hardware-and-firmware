@@ -3,3 +3,4 @@
 <img width="792" height="758" alt="image" src="https://github.com/user-attachments/assets/d3b3b2d9-606e-43f9-930d-704dfadc4020" />
 
 - 2d view:
+<img width="804" height="729" alt="image" src="https://github.com/user-attachments/assets/80b30369-6981-491d-b7c2-b5f03245c2f0" />
